@@ -1,0 +1,5 @@
+db/*.json
+db/*.tmp
+out/*.txt
+__pycache__/
+*.pyc
